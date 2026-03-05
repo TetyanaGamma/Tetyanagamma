@@ -1,13 +1,14 @@
-# Hi there! I'm [TetyanaGamma] 👋
+# Hi there! I'm [<span id="top">Tetyana Gamma</span>](#connect) 👋
 
 ### 👩‍💻 Android Developer | Mobile Applications
 
 I am a passionate Android Developer currently based in **Batumi, Georgia**. I focus on building modern, scalable, and user-friendly mobile applications using the latest Android technologies.
 
 ---
-### 📫 Connect with me:
+### <a id="connect"></a>📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tetyana-gamma-a65350281/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@gamma_tetyana)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gamma_tetyana)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tetyanagamma@gmail.com)
 
 ### 🛠 Tech Stack & Tools
 
@@ -23,7 +24,7 @@ I am a passionate Android Developer currently based in **Batumi, Georgia**. I fo
 
 ### 🚀 Key Projects
 
-#### 🎵 (https://[github.com/TetyanaGamma/PlaylistMaker)] — Music Player with Playlist Management
+#### 🎵 [Playlist Maker](https://github.com/TetyanaGamma/PlaylistMaker) — Music Player with Playlist Management
 *Powerful music app with seamless integration and clean architecture.*
 * **Tech Stack:** Kotlin, MVVM, Koin, Room, Retrofit, Coroutines & Flow, **Material Design 3**.
 * **Key Features:**
