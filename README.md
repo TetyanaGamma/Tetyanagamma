@@ -61,6 +61,6 @@ I am a passionate Android Developer currently based in **Batumi, Georgia**. I fo
 ---
 
 ### 📊 GitHub Statsus
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TetyanaGamma&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub stats](https://github-readme-stats-one.vercel.app/api?username=TetyanaGamma&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TetyanaGamma&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=TetyanaGamma&layout=compact&theme=radical&hide_border=true)
